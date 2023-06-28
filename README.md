@@ -1,4 +1,4 @@
-This GitHub Gist showcases a collection of popular open-source licenses with eye-catching badges. Each license is presented with different styles and vibrant colors, allowing you to choose the one that best suits your project.
+This README showcases a collection of popular open-source licenses with eye-catching badges. Each license is presented with different styles and vibrant colors, allowing you to choose the one that best suits your project.
 
 > **_NOTE:_** You can change colors for each style in the name of the license (ex. license-MIT-**blue**.svg). Possible options: 
 >
